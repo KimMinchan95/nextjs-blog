@@ -29,7 +29,6 @@ export default function Home({ allPostsData }) {
                     .)
                 </p>
             </section>
-            <Link href={'/posts/first-post'}>Post</Link>
 
             <section
                 className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}
